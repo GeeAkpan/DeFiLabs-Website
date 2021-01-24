@@ -4279,11 +4279,11 @@ textarea:required {
 /* ##### Light Version CSS ##### */
 
 body.light-version {
-    background: #fff !important;
+    background: #000 !important;
 }
 
 .light-version p {
-    color: #888;
+    color: #fff;
 }
 
 .light-version h2,
